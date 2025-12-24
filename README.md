@@ -3,6 +3,8 @@
 기술 블로그와 개인 활동을 기록하며  
 성장 과정을 정리한 포트폴리오입니다.
 
+## About Me
+- [Notion 자기소개 페이지](https://www.notion.so/About-me-2d3f2b71107680c483fbeb429b9aa650?source=copy_link)
 
 
 ---
