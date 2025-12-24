@@ -7,6 +7,7 @@
 - [Notion 자기소개 페이지](https://www.notion.so/About-me-2d3f2b71107680c483fbeb429b9aa650?source=copy_link)
 
 
+
 ---
 
 ## 🔗 [기술 블로그 글](https://m.blog.naver.com/groats?categoryNo=29&tab=1)
