@@ -3,8 +3,7 @@
 기술 블로그와 개인 활동을 기록하며  
 성장 과정을 정리한 포트폴리오입니다.
 
-🔗 네이버 기술 블로그  
-https://m.blog.naver.com/PostList.naver?blogId=groats
+
 
 ---
 
