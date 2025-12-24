@@ -16,12 +16,12 @@ https://m.blog.naver.com/PostList.naver?blogId=groats
 ### 서비스 / 기획
 
  **Google Design Sprint**
-  - [Day 1]([링크](https://blog.naver.com/groats/224112039839))
-  - [Day 2]([링크](https://blog.naver.com/groats/224113277124))
-  - [Day 3]([링크](https://blog.naver.com/groats/224114527365))
-  - [Day 4]([링크](https://blog.naver.com/groats/224115757458))
-  - [Day 5]([링크](https://blog.naver.com/groats/224118909875))
-  - [Day 6]([링크](https://blog.naver.com/groats/224120218676))
+  - [Day 1]((https://blog.naver.com/groats/224112039839)
+  - [Day 2]((https://blog.naver.com/groats/224113277124)
+  - [Day 3]((https://blog.naver.com/groats/224114527365)
+  - [Day 4][(https://blog.naver.com/groats/224115757458)]
+  - [Day 5](https://blog.naver.com/groats/224118909875)
+  - [Day 6](https://blog.naver.com/groats/224120218676)
 
  
 
