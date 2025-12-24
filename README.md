@@ -14,7 +14,15 @@ https://m.blog.naver.com/PostList.naver?blogId=groats
 - [글 제목 2](네이버_링크)
 
 ### 서비스 / 기획
-- [글 제목 1](네이버_링크)
+- google design sprint 
+  day 1. https://blog.naver.com/groats/224112039839
+  day 2. https://blog.naver.com/groats/224113277124
+  day 3. https://blog.naver.com/groats/224114527365
+  day 4. https://blog.naver.com/groats/224115757458
+  day 5. https://blog.naver.com/groats/224118909875
+  day 6. https://blog.naver.com/groats/224120218676
+  
+- 
 
 ---
 
