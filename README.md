@@ -8,7 +8,8 @@ https://m.blog.naver.com/PostList.naver?blogId=groats
 
 ---
 
-## 🧠 기술 블로그 글
+## 🔗 [기술 블로그 글](https://m.blog.naver.com/PostList.naver?blogId=groats)
+
 ### 데이터 / 분석
 - [글 제목 1](네이버_링크)
 - [글 제목 2](네이버_링크)
