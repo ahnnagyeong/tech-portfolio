@@ -1,5 +1,5 @@
 google-design-sprint/
-├─ https://github.com/ahnnagyeong/tech-portfolio/blob/main/README.md)
+├─ README.md
 ├─ [Day 1](https://blog.naver.com/groats/224112039839)
 ├─ [Day 2](https://blog.naver.com/groats/224113277124)
 ├─ [Day 3](https://blog.naver.com/groats/224114527365)
