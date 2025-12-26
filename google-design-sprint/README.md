@@ -1,12 +1,13 @@
 google-design-sprint/
-├─ README.md
-├─ day1.md
-├─ day2.md
-├─ day3.md
-├─ day4.md
-├─ day5.md
-├─ day6.md
-└─ day7.md
+README.md
+- [Day 1](./day1.md)
+- [Day 2](./day2.md)
+- [Day 3](./day3.md)
+- [Day 4](./day4.md)
+- [Day 5](./day5.md)
+- [Day 6](./day6.md)
+- [Day 7](./day7.md)
+
 
 
 
