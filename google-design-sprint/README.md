@@ -1,5 +1,5 @@
 google-design-sprint/
-├─ README.md        ← 전체 개요 + Day 링크
+├─ README.md
 ├─ day1.md
 ├─ day2.md
 ├─ day3.md
