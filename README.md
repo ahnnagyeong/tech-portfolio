@@ -18,7 +18,7 @@
 
 ### 서비스 / 기획
 
- [Google Design Sprint](./google-design-sprint)
+1. [Google Design Sprint](./google-design-sprint)
 
  
 
