@@ -1,4 +1,18 @@
 google-design-sprint/
+├─ README.md        ← 전체 개요 + Day 링크
+├─ day1.md
+├─ day2.md
+├─ day3.md
+├─ day4.md
+├─ day5.md
+├─ day6.md
+└─ day7.md
+
+
+
+
+
+google-design-sprint/
 ├─ README.md
 ├─ [Day 1](https://blog.naver.com/groats/224112039839)
 ├─ [Day 2](https://blog.naver.com/groats/224113277124)
